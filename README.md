@@ -1,6 +1,7 @@
 # portifolio1
 
-This application is an "about me" that includes my background and hobbies,March 15 2020
+This application is an "about me" that includes my background and hobbies, Latest updated version is on March 15 2020.
+
 ####By **{Christine Mugambi}**
 
 ## Description
