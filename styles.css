@@ -1,3 +1,7 @@
+h1 {
+  color: black;
+  text-align: center;
+}
 .important {
   color: red;
 }
@@ -6,4 +10,7 @@
 }
 .unimportant {
   color: turquoise;
+}
+ul {
+  line-height: 40px;
 }
